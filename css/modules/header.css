@@ -1,0 +1,9 @@
+.header{
+	font-family: 'Open Sans', sans-serif;
+	background: #434753;
+	height: 60px;
+	border-bottom: 2px solid #2f323b;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
